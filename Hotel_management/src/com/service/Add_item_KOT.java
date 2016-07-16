@@ -189,7 +189,7 @@ public class Add_item_KOT {
 		frame.getContentPane().add(add_item_button);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(60, 3, 330, 121);
 		frame.getContentPane().add(label);
 		

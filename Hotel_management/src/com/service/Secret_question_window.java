@@ -69,7 +69,7 @@ if(sqd.authenticate_secret_question(info)){
 		frmSecretQuestionWindow.getContentPane().add(lblNewLabel);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(66, 0, 330, 121);
 		frmSecretQuestionWindow.getContentPane().add(label);
 		

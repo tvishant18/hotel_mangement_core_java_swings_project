@@ -54,7 +54,7 @@ public class Master_login {
 		frmLoginWindow.getContentPane().setBackground(new Color(253, 245, 230));
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		lblNewLabel.setBounds(77, 11, 330, 122);
 		frmLoginWindow.getContentPane().add(lblNewLabel);
 		

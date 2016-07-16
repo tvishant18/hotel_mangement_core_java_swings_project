@@ -64,7 +64,7 @@ public class Add_table_Bar_window {
 		frmBarTableWindow.getContentPane().setLayout(null);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(42, 0, 330, 121);
 		frmBarTableWindow.getContentPane().add(label);
 		

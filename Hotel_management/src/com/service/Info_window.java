@@ -87,7 +87,7 @@ public class Info_window {
 
 		
 		JLabel label_1 = new JLabel("New label");
-		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Pictures\\16.jpg"));
+		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label_1.setBounds(391, 11, 330, 153);
 		panel_1.add(label_1);
 		

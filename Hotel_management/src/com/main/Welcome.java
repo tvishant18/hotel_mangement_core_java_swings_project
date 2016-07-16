@@ -65,7 +65,7 @@ public class Welcome {
 				window.frmWelcome.setVisible(false);
 			}
 		});
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\14.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\14.jpg"));
 		lblNewLabel.setBounds(0, 0, 442, 275);
 		panel.add(lblNewLabel);
 		
@@ -79,7 +79,7 @@ public class Welcome {
 			
 			}
 		});
-		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\3.jpg"));
+		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\3.jpg"));
 		label_1.setBounds(438, 0, 808, 275);
 		panel.add(label_1);
 		
@@ -94,7 +94,7 @@ public class Welcome {
 			
 			}
 		});
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\2.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\2.jpg"));
 		label.setBounds(721, 278, 515, 407);
 		panel.add(label);
 		
@@ -108,7 +108,7 @@ public class Welcome {
 			
 			}
 		});
-		label_2.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\8.jpg"));
+		label_2.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\8.jpg"));
 		label_2.setBounds(0, 278, 725, 411);
 		panel.add(label_2);
 	}

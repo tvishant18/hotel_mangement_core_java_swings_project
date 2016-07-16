@@ -53,7 +53,7 @@ public class Update_Password_window {
 		frmUpdatePasswordWindow.getContentPane().setBackground(new Color(253, 245, 230));
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(57, 0, 330, 121);
 		frmUpdatePasswordWindow.getContentPane().add(label);
 		

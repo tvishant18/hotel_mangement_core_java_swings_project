@@ -67,7 +67,7 @@ public class Today_sale_application_window {
 		frame.getContentPane().setLayout(null);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Pictures\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(59, 0, 330, 153);
 		frame.getContentPane().add(label);
 		

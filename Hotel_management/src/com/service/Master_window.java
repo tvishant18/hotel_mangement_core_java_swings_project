@@ -212,7 +212,7 @@ public class Master_window {
 		comboBox.setModel(new javax.swing.DefaultComboBoxModel<String>(c));
 		
 		JLabel label_6 = new JLabel("");
-		label_6.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label_6.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label_6.setBounds(260, 11, 330, 121);
 		panel.add(label_6);
 		

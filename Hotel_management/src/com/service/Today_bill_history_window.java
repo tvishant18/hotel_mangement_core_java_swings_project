@@ -53,7 +53,7 @@ public class Today_bill_history_window {
 		frmBillHistoryWindow.getContentPane().setBackground(new Color(238, 232, 170));
 		
 		JLabel label = new JLabel("New label");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Pictures\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(540, 11, 330, 153);
 		frmBillHistoryWindow.getContentPane().add(label);
 		

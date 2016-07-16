@@ -65,7 +65,7 @@ public class Add_table_window {
 		frmRestaurantTableWindow.getContentPane().setBackground(new Color(238, 232, 170));
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(53, 0, 330, 121);
 		frmRestaurantTableWindow.getContentPane().add(label);
 		

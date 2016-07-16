@@ -57,7 +57,7 @@ public class Other_sale_window {
 		frmSaleWindow.getContentPane().setBackground(new Color(238, 232, 170));
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Pictures\\16.jpg"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\16.jpg"));
 		label.setBounds(60, 0, 330, 153);
 		frmSaleWindow.getContentPane().add(label);
 		

@@ -18,7 +18,7 @@ class Panel_right_DAO implements Runnable {
 	public void run() {
 		try {
 			for(int i=1;i<=10;i++){
-				Home_window2.lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\Desktop\\PICS\\"+i+".jpg"));
+				Home_window2.lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\hotel_mangement_core_java_swings_project\\Hotel_management\\src\\PICS\\"+i+".jpg"));
 			
 			Thread.sleep(4000);}
 			run();
