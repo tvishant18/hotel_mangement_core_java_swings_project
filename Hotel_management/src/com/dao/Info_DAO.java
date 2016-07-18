@@ -17,7 +17,7 @@ public class Info_DAO {
 		 try {
 			
 		   Connection connection=DataBaseManager.getconnection();
-		   PreparedStatement prepare=connection.prepareStatement("SELECT Kot_no,item_code,item_name,price,quantity,total_price,vat FROM hotel_management.kot_record");
+		   PreparedStatement prepare=connection.prepareStatement("SELECT Kot_no,item_code,item_name,price,quantity,total_price,vat FROM hotel_management.kitchen_order_ticket");
 		    ResultSet result=prepare.executeQuery();
 		   
 		   Vector<String> column_name1=new Vector<String>();

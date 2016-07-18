@@ -65,7 +65,7 @@ public class Home_window2 {
 		frmHome = new JFrame();
 		frmHome.setTitle("Home");
 		frmHome.setBounds(100, 100, 1233, 772);
-		frmHome.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+		frmHome.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmHome.getContentPane().setBackground(new Color(220, 220, 220));
 		frmHome.getContentPane().setLayout(null);
 		frmHome.getContentPane().setBackground(new Color(210, 105, 30));
