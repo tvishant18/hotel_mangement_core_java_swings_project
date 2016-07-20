@@ -5,7 +5,6 @@ import javax.swing.JLabel;
 import javax.swing.ImageIcon;
 import java.awt.Font;
 import java.util.ArrayList;
-import java.util.Date;
 import javax.swing.JComboBox;
 import javax.swing.JButton;
 import java.awt.Color;
@@ -13,7 +12,6 @@ import javax.swing.JTextField;
 import com.BO.Bill_info;
 import com.dao3.Today_sale_DAO;
 import java.awt.event.ActionListener;
-import java.text.SimpleDateFormat;
 import java.awt.event.ActionEvent;
 
 public class Other_sale_window {
@@ -98,12 +96,8 @@ public class Other_sale_window {
 				 Bill_info info2=new Bill_info();
 				    String date2=(Integer)day_combo.getSelectedItem()+"/"+(String)month_combo.getSelectedItem()+"/"+(Integer)year_combo.getSelectedItem();
 				    info2.setDate(date2);
-				    Date date=new Date();
-					SimpleDateFormat sdf=new SimpleDateFormat("dd/MM/yyyy");
-					String date1=sdf.format(date);
-					date_text.setText(date1);
-					
-					info2.setDate(date1);
+				  
+					date_text.setText(date2);
 					Today_sale_DAO tsd=new Today_sale_DAO();
 				 if(tsd.authenticate_jtable_R(info2)){
 					 res_text.setText(""+Today_sale_DAO.Total_RES_SALE);
